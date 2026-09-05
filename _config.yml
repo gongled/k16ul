@@ -1,9 +1,10 @@
-title: ТСН ТСЖ «Вымпел»
-description: Официальный сайт товарищества в Ульяновске
-email: tsg.vimpel73@inbox.ru
+title: Красноармейская, 16
+description: Информационный сайт дома в Ульяновске
+email: info@k16ul.ru
 baseurl: ""
-url: "https://vympel73.ru"
+url: "https://k16ul.ru"
 lang: ru
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
@@ -26,13 +27,13 @@ analytics:
     tracking_code: UNKNOWN
 
 contacts:
-  address: г. Ульяновск, ул. Островского, 23
-  leader: Гончаров Глеб Эдуардович 
-  work_phone: 79278268323
-  personal_phone: 79278268323
-  email: tsg.vimpel73@inbox.ru
+  address: г. Ульяновск, ул. Красноармейская, 16
+  leader: Тонерян Мкртыч Саркисович 
+  work_phone: 79000000000
+  personal_phone: 79000000000
+  email: info@k16ul.ru
   webmaster_email: inbox@gongled.ru
-  github_url: https://github.com/gongled/vympel
+  github_url: https://github.com/gongled/k16ul
 
 paginate: 5
 paginate_path: "/article/page:num/"

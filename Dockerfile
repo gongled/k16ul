@@ -1,4 +1,4 @@
-FROM docker.io/library/ruby:2.6
+FROM docker.io/library/ruby:3.2
 WORKDIR /app
 ADD Makefile Gemfile Gemfile.lock /app/
 RUN make deps

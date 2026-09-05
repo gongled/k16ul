@@ -1,6 +1,6 @@
 <p align="center"><a href="#-">Требуемое ПО</a> • <a href="#">Сборка</a> • <a href="#">Установка</a> • <a href="#">Тестирование</a> • <a href="#">Лицензия</a></p>
 
-[![Actions Status](https://github.com/gongled/vympel/workflows/deploy/badge.svg)](https://github.com/gongled/vympel/actions)
+[![Actions Status](https://github.com/gongled/k16ul/workflows/deploy/badge.svg)](https://github.com/gongled/k16ul/actions)
 
 # О проекте
 
@@ -18,8 +18,8 @@
 Прочтите [документацию к Jekyll](http://jekyllrb.com) для начала работы.
 
 ```
-$ git clone https://github.com/gongled/vympel.git
-$ cd vympel/
+$ git clone https://github.com/gongled/k16ul.git
+$ cd k16ul/
 $ make release 
 ```
 
