@@ -4,4 +4,4 @@ deployment:
     user: deploy
 
 app:
-    path: /srv/projects/k16ul.ru/current
+    path: /srv/projects/k16.gongled.ru/current

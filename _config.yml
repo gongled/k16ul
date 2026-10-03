@@ -1,8 +1,8 @@
 title: Красноармейская, 16
 description: Информационный сайт дома в Ульяновске
-email: info@k16ul.ru
+email: inbox@gongled.ru
 baseurl: ""
-url: "https://k16ul.ru"
+url: "https://k16.gongled.ru"
 lang: ru
 encoding: utf-8
 
@@ -28,12 +28,15 @@ analytics:
 
 contacts:
   address: г. Ульяновск, ул. Красноармейская, 16
-  leader: Тонерян Мкртыч Саркисович 
-  work_phone: 79000000000
-  personal_phone: 79000000000
-  email: info@k16ul.ru
+  leader: Тонерян Мкртыч Саркисович
+  work_phone: 79084739746
+  personal_phone: 79084739746
+  email: inbox@gongled.ru
   webmaster_email: inbox@gongled.ru
   github_url: https://github.com/gongled/k16ul
+
+links:
+  project: "https://k16.kaiten.ru/p/396805f7-7ed6-466d-98f8-fd1aa4c37664"
 
 paginate: 5
 paginate_path: "/article/page:num/"
